@@ -3,7 +3,7 @@
 
 
 [![](https://dcbadge.limes.pink/api/shield/183004797455171584)](https://discord.gg/modding-guild-skyrim-guild-872252014002843658)
-[![Static Badge](https://img.shields.io/badge/nexus-profile-gray?style=for-the-badge&logo=nexusmods&labelColor=orange&link=https%3A%2F%2Fwww.nexusmods.com%2Fprofile%2FPatchu1i)](https://www.nexusmods.com/profile/Patchu1i) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/patchulidev) 
+[![Static Badge](https://img.shields.io/badge/nexus-profile-gray?style=for-the-badge&logo=nexusmods&labelColor=orange&link=https%3A%2F%2Fwww.nexusmods.com%2Fprofile%2Fpatchulidev)](https://www.nexusmods.com/profile/patchulidev) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/patchulidev) 
 
 <br>
 
